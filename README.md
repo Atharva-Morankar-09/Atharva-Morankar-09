@@ -1,5 +1,5 @@
 
-
+<img height="290px" width="100%" alt="Coding" src="https://github.com/Atharva-Morankar-09/Atharva-Morankar-09/blob/main/gitmain.jpg">
 
 <h1 align="center">Hey 👋, Atharva Morankar here</h1>
 <h3 align="center">⚡ Exploring ⚡</h3>
