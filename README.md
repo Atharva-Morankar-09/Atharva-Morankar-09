@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👋, Atharva Morankar here</h1>
 <h3 align="center">⚡ Exploring ⚡</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Atharva-Morankar-09/Atharva-Morankar-09/blob/main/rsbg.jpg">
 
 - 🔭 I’m currently working on **DSA**
 
