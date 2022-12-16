@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React Js**
 
-- 💬 Ask me about **C/C++, DSA & Competitive programming**
+- 💬 Ask me about **C/C++, DSA & Competitive programming.**
 
 - 📫 How to reach me **atharva.morankar09@gmail.com**
 
